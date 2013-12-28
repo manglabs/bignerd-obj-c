@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A66DCF48-1390-4380-8B2C-D4F2E819F8C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TurkeyTimer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>926B9419-AED6-4DB3-A85B-6D06B24C38DE</key>
+		<string>https://github.com/manglabs/bignerd-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TurkeyTimer/TurkeyTimer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>926B9419-AED6-4DB3-A85B-6D06B24C38DE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manglabs/bignerd-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>926B9419-AED6-4DB3-A85B-6D06B24C38DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>926B9419-AED6-4DB3-A85B-6D06B24C38DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bignerd-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
